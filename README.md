@@ -3,7 +3,7 @@ A compact custom PCB stepper motor driver designed to sit directly on top of a N
 Fully open-source hardware and firmware.
 
 # 📽️ Demo Video
-
+https://www.linkedin.com/posts/saiteja-pulavarthi-08a77874_pcbdesign-electronics-hardwareengineering-ugcPost-7454282546252603392-6Cf-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_GgWoBVC5vhgpox3qd95GSbuT_VeuC4Dc
 
 # ⚙️ Components Used
 | Component | Value / Part | Purpose |
